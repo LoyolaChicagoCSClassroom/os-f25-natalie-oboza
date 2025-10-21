@@ -1,5 +1,6 @@
 
 #include <stdint.h>
+#include "page.h"
 
 #define MULTIBOOT2_HEADER_MAGIC         0xe85250d6
 
